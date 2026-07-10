@@ -120,13 +120,13 @@ _קללללל._
 
 ## תורם
 
-עיין ב-[CONTRIBUTING.md](./CONTRIBUTING.md) כדי לראות הנחיות כיצד לתרום. הקובץ מתאר מה לעשות אם יש לך תכונה חדשה, שינוי, עדכון תרגום או שמצאת בעיה עם auto-py-to-exe.
+עיין ב-[CONTRIBUTING.md](../../CONTRIBUTING.md) כדי לראות הנחיות כיצד לתרום. הקובץ מתאר מה לעשות אם יש לך תכונה חדשה, שינוי, עדכון תרגום או שמצאת בעיה עם auto-py-to-exe.
 
 ## בעיות בשימוש בכלי
 
 אם אתה נתקל בבעיות עם קובץ ההפעלה הארוז או בשימוש בכלי זה באופן כללי, אני ממליץ לך לקרוא את [הפוסט בבלוג שלי על בעיות נפוצות בעת שימוש ב-auto-py-to-exe](https://nitratine.net/blog/post /issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help). פוסט זה מכסה דברים שכדאי לדעת על אריזת סקריפטים של Python ותיקונים לדברים שבדרך כלל משתבשים.
 
-אם אתה סבור שמצאת בעיה בכלי זה, עקוב אחר הסעיף ["דיווח על בעיה" ב-CONTRIBUTING.md](./CONTRIBUTING.md#reporting-an-issue).
+אם אתה סבור שמצאת בעיה בכלי זה, עקוב אחר הסעיף ["דיווח על בעיה" ב-CONTRIBUTING.md](../../CONTRIBUTING.md#reporting-an-issue).
 
 ## תמיכה של Python 2.7
 

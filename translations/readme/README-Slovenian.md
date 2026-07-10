@@ -118,12 +118,12 @@ To dejanje izvoza konfiguracije JSON ne shrani izhodnega imenika samodejno, saj 
 
 ## Primeri
 
-Imenik [examples/](./examples/) ponuja nekaj primerov, kako napisati skripte in jih zapakirati z auto-py-to-exe.
+Imenik [examples/](../../examples) ponuja nekaj primerov, kako napisati skripte in jih zapakirati z auto-py-to-exe.
 
-- [Osnovno (konzolna aplikacija)](./examples/1-basic/readme.md)
-- [Brez konzole (kot je običajno zaželeno za aplikacije, ki temeljijo na grafičnem uporabniškem vmesniku)](./examples/2-no-console/readme.md)
-- [Slike in druge datoteke, ki niso .py (vključiti je treba statične datoteke)](./examples/3-images-and-other-non-py-files/readme.md)
-- [Trajni podatki (kot so baze podatkov)](./examples/4-persistent-data/readme.md)
+- [Osnovno (konzolna aplikacija)](../../examples/1-basic/readme.md)
+- [Brez konzole (kot je običajno zaželeno za aplikacije, ki temeljijo na grafičnem uporabniškem vmesniku)](../../examples/2-no-console/readme.md)
+- [Slike in druge datoteke, ki niso .py (vključiti je treba statične datoteke)](../../examples/3-images-and-other-non-py-files/readme.md)
+- [Trajni podatki (kot so baze podatkov)](../../examples/4-persistent-data/readme.md)
 
 ## Video
 
@@ -131,13 +131,13 @@ Imenik [examples/](./examples/) ponuja nekaj primerov, kako napisati skripte in 
 
 ## Prispevek
 
-Oglejte si [CONTRIBUTING.md](./CONTRIBUTING.md), kjer si lahko ogledate smernice za prispevanje. To opisuje, kaj storiti, če imate novo funkcijo, spremembo, posodobitev prevoda ali ste odkrili težavo z orodjem auto-py-to-exe.
+Oglejte si [CONTRIBUTING.md](../../CONTRIBUTING.md), kjer si lahko ogledate smernice za prispevanje. To opisuje, kaj storiti, če imate novo funkcijo, spremembo, posodobitev prevoda ali ste odkrili težavo z orodjem auto-py-to-exe.
 
 ## Težave z uporabo orodja
 
 Če imate težave s pakirano izvedljivo datoteko ali z uporabo tega orodja na splošno, vam priporočam, da preberete [mojo objavo na blogu o pogostih težavah pri uporabi orodja auto-py-to-exe](https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help). Ta objava zajema stvari, ki jih morate vedeti o pakiranju skript Python, in popravke za stvari, ki se pogosto pojavijo narobe.
 
-Če menite, da ste odkrili težavo s tem orodjem, sledite razdelku ["Prijava težave" na spletni strani CONTRIBUTING.md](./CONTRIBUTING.md#reporting-an-issue).
+Če menite, da ste odkrili težavo s tem orodjem, sledite razdelku ["Prijava težave" na spletni strani CONTRIBUTING.md](../../CONTRIBUTING.md#reporting-an-issue).
 
 ## Podpora za Python 2.7
 
