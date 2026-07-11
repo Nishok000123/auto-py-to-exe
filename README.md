@@ -28,6 +28,7 @@
 | [српски](./translations/readme/README-Serbian_Cyrillic.md)
 | [srpski](./translations/readme/README-Serbian_Latin.md)
 | [Русский](./translations/readme/README-Russian.md)
+| [Français](./translations/readme/README-French.md)
 
 ## Demo
 
@@ -151,7 +152,7 @@ If you believe you've found an issue with this tool, please follow the ["Reporti
 | Dutch (Nederlands)                          | [barremans](https://github.com/barremans)                                                    | ✔️                     |                                                          |                                                                      |          |
 | English                                     | -                                                                                            | ✔️                     | ✔️                                                       | ✔️                                                                   | ✔️       |
 | Finnish (Suomen kieli)                      | [ZapX5](https://github.com/ZapX5)                                                            | ✔️                     | [✔️](./translations/readme/README-Finnish.md)            |                                                                      |          |
-| French (Français)                           | [flaviedesp](https://github.com/flaviedesp)                                                  | ✔️                     |                                                          |                                                                      |          |
+| French (Français)                           | [flaviedesp](https://github.com/flaviedesp), [samuellouf](https://github.com/samuellouf)     | ✔️                     | [✔️](./translations/readme/README-French.md)             |                                                                      |          |
 | German (Deutsch)                            | [hebens](https://github.com/hebens), [ackhh](https://github.com/ackhh)                       | ✔️                     |                                                          |                                                                      |          |
 | Greek (Ελληνικά)                            | [sofronas](https://github.com/sofronas)                                                      | ✔️                     |                                                          |                                                                      |          |
 | Hebrew (עברית)                              | [ronbentata](https://github.com/ronbentata)                                                  | ✔️                     | [✔️](./translations/readme/README-Hebrew.md)             |                                                                      |          |

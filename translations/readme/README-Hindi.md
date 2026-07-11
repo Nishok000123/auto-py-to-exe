@@ -28,6 +28,7 @@
 | [српски](./README-Serbian_Cyrillic.md)
 | [srpski](./README-Serbian_Latin.md)
 | [Русский](./README-Russian.md)
+| [Français](./README-French.md)
 
 ## डेमो
 
